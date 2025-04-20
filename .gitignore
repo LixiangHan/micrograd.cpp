@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Virtual environment
+venv/
+
+# Build directory
+build/
